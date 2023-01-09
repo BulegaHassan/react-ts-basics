@@ -4,3 +4,6 @@
   text-transform: capitalize;
   font-weight: 500;
 }
+button {
+  margin: 5em ;
+}
