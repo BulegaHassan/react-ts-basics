@@ -15,4 +15,4 @@ npm install && npm start
 ```bash 
 git checkout branch_name
 ```
-### To watch associated video tutorial visit [Code Evolution](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK&index=1" target="_blank)
+### To watch associated video tutorial visit [Code Evolution](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK&index=1)
