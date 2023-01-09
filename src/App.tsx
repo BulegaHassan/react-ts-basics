@@ -1,9 +1,9 @@
-import "./App.css";
-import { User2 } from "./components/state/User2";
+import "./App.css";import { Counter } from "./components/state/Counter";
+
 function App() {
   return (
     <div>
-     <User2/>
+     <Counter/>
     </div>
   );
 }
