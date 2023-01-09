@@ -1,7 +1,7 @@
 * {
   margin: 0 auto;
   text-align: center;
-  text-transform: capitalize;
+  text-transform: none;
   font-weight: 500;
 }
 button {
