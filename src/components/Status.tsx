@@ -1,7 +1,7 @@
 type StatusProps = {
   status: "loading"| 'success'|'error'
 };
-const Oscar = (props: StatusProps) => {
+const Status = (props: StatusProps) => {
   let message;
   if (props.status === "loading") {
     message = "Loading...";
@@ -16,4 +16,4 @@ const Oscar = (props: StatusProps) => {
     </div>
   );
 };
-export default Oscar;
+export default Status;
