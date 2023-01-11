@@ -1,9 +1,13 @@
-import "./App.css";import { Counter } from "./components/state/Counter";
+import "./App.css";
+import { ThemeContextProvider } from "./components/context/ThemeContext";
+import { Box } from "./components/context/Box";
 
 function App() {
   return (
     <div>
-     <Counter/>
+     <ThemeContextProvider>
+      <Box/>
+     </ThemeContextProvider>
     </div>
   );
 }
